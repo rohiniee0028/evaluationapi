@@ -7,7 +7,7 @@
     "start":"node index.js"
   },
   "keywords": [],
-  "author": "vishnu",
+  "author": "rohini",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.1"
