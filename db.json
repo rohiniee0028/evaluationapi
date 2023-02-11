@@ -1,34 +1,91 @@
 {
-    "cars": [
-      {
-        "id": 1,
-        "brand": "Tata",
-        "year": 2019,
-              "type":"Manual",
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 500000
-      },
-      {
-        "id": 2,
-        "brand": "Tata",
-              "type":"AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      }
-    ],
-  "wishlisted_cars": [
-      {
-        "id": 1,
-        "brand": "Tata",
-        "year": 2019,
-        "type":"Manual",
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 500000
-      }
-    ]
-  }
-  
+  "blogs": [
+    {
+      "id": 1,
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
+      ]
+    },
+    {
+      "username": "Rohini Kushwaha",
+      "title": "Be human",
+      "content": "Being human is one of the greatest achievement in the world.",
+      "category": "Lifestyle",
+      "date": "2023-02-12",
+      "likes": 0,
+      "comments": [],
+      "id": 2
+    },
+    {
+      "username": "Rohini Kushwaha",
+      "title": "Honesty",
+      "content": "Honesty is the real power of any human kind. it is the best policy any human can do.",
+      "category": "Tech",
+      "date": "2023-02-16",
+      "likes": 0,
+      "comments": [],
+      "id": 3
+    },
+    {
+      "username": "Rohini Kushwaha",
+      "title": "hello",
+      "content": "you should hello everydat",
+      "category": "Buisness",
+      "date": "2023-02-17",
+      "likes": 0,
+      "comments": [],
+      "id": 4
+    },
+    {
+      "username": "Rohini Kushwaha",
+      "title": "Artificial Intelligence",
+      "content": "Now days, AI is in trend.",
+      "category": "Tech",
+      "date": "2023-02-07",
+      "likes": 0,
+      "comments": [],
+      "id": 5
+    },
+    {
+      "username": "Rohini Kushwaha",
+      "title": "politics",
+      "content": "rahul gandhi is on walk of India.",
+      "category": "Entertainment",
+      "date": "2023-02-14",
+      "likes": 0,
+      "comments": [],
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "username": "Rohini Kushwaha",
+      "avatar": "http://www.venmond.com/demo/vendroid/img/avatar/big.jpg",
+      "email": "rohini19394@gmail.com",
+      "password": "0786",
+      "id": 1
+    }
+  ],
+  "loggeduser": [
+    {
+      "username": "Rohini Kushwaha",
+      "avatar": "http://www.venmond.com/demo/vendroid/img/avatar/big.jpg",
+      "email": "rohini19394@gmail.com",
+      "password": "0786",
+      "id": 1
+    }
+  ]
+}
